@@ -1,0 +1,22 @@
+{
+  "name": "angular-lite-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albatrosary/angular-lite-start.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albatrosary/angular-lite-start/issues"
+  },
+  "homepage": "https://github.com/albatrosary/angular-lite-start#readme",
+  "dependencies": {
+    "angular": "^1.5.3"
+  }
+}
